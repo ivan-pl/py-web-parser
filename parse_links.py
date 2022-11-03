@@ -30,10 +30,10 @@ def get_options(argv):
 
 
 def show_help():
-    print('Run "py parse_link.py -u https://ya.ru" '
-          'or py parse_link.py --url=https://ya.ru".\n'
+    print('Run "py parse_links.py -u https://ya.ru" '
+          'or py parse_links.py --url=https://ya.ru".\n'
           'In order to save the result use -o or --output-file flags, for '
-          'example, py parse_link.py -u https://ya.ru -o file.txt.')
+          'example, py parse_links.py -u https://ya.ru -o file.txt.')
 
 
 def show_error():
