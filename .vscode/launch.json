@@ -7,7 +7,7 @@
       "request": "launch",
       "program": "parse_links.py",
       "console": "integratedTerminal",
-      "args": ["-h"],
+      "args": ["-u", "https://ya.ru"]
     }
   ]
 }
